@@ -1,0 +1,8 @@
+{
+  "name": "Boon Huat Supplier Payment Tracking",
+  "description": "Role-based supplier payment tracking, cash buffer monitoring, anomaly recovery, and audit logs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
